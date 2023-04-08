@@ -7,5 +7,12 @@ public class Stash3 {
 		
 		System.out.println("Get first elements from the arraylist");
 	}
+	
+public void getLast() {
+		
+		System.out.println("Get Last elements ");
+	
+
+}
 
 }
